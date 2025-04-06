@@ -10,7 +10,7 @@ Projeto desenvolvido em Python com interface gráfica utilizando Tkinter. O **Sm
 - Cadastro e gerenciamento de armários (lockers)
 - Armazenamento de itens com senha
 - Retirada de itens por terceiros com validação de senha
-- Interface gráfica amigável feita em Tkinter
+- Interface gráfica feita em Tkinter
 
 ---
 
