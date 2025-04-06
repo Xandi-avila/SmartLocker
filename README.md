@@ -34,3 +34,11 @@ Este projeto foi criado como trabalho acadêmico para demonstrar habilidades com
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Xandi-avila/SmartLocker.git
+
+2. Acesse a pasta do projeto:
+     ```bash
+   cd SmartLocker
+
+3. Execute o projeto
+   ```bash
+   python main.py
